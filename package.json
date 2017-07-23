@@ -14,5 +14,10 @@
     "raw-loader": "^0.5.1",
     "webpack": "^3.3.0",
     "webpack-dev-server": "^2.6.0"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "styled-components": "^2.1.1"
   }
 }
